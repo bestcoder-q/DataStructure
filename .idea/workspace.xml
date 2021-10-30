@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="065eb7d6-8b29-4c8d-bc95-dd19ca6fc8d2" name="Default Changelist" comment="" />
+    <list default="true" id="065eb7d6-8b29-4c8d-bc95-dd19ca6fc8d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/classicproblem/BracketsMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/classicproblem/Joseph$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/classicproblem/Joseph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/classicproblem/ReversePolishNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/LinkList$LIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/LinkList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/Queue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/Queue$QIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/SequenceList$SIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/SequenceList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/Stack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/Stack$SIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/TwoWayLinkList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/TwoWayLinkList$TWLIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/linear/TwoWayLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/multithreading/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/multithreading/WindowTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/sort/Bubble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/sort/Insertion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/sort/Merge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/sort/Quick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/sort/Selection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/sort/Shell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/symbol/OrderSymbolTable$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/symbol/OrderSymbolTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/symbol/SymbolTable$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/symbol/SymbolTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/BinaryTreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/BubbleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/InsertionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/LinkListReverseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/LinkListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/MergeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/OrderSymbolTableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/QueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/QuickTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/SelectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/SequenceListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/SequenceListTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/ShellTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/SymbolTableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/test/TwoWayLinkListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/tree/BinaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/tjpu/edu/tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/classicproblem/BracketsMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/classicproblem/Joseph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/classicproblem/ReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/linear/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/linear/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/linear/SequenceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/linear/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/linear/TwoWayLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/multithreading/WindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/sort/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/sort/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/sort/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/sort/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/sort/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/sort/Shell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/symbol/OrderSymbolTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/symbol/SymbolTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/BinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/BubbleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/InsertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/LinkListReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/LinkListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/MergeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/OrderSymbolTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/QuickTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/SelectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/SequenceListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/SequenceListTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/ShellTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/SymbolTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/test/TwoWayLinkListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjpu/edu/tree/BinaryTree.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +103,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +116,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1rR5Maytt41GlaV4r8jjdZWyDKr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -196,6 +289,7 @@
       <workItem from="1634606984020" duration="810000" />
       <workItem from="1634648716147" duration="3188000" />
       <workItem from="1634866071409" duration="595000" />
+      <workItem from="1635556809037" duration="628000" />
     </task>
     <servers />
   </component>
